@@ -19,3 +19,7 @@ Given below is the flow of the application.
 ![Screenshot of editing the availability of books.](Library_Management_Screenshots/Availability.png)
 
 ![Screenshot of checking out and returning books for a user.](Library_Management_Screenshots/Checkout.png)
+
+![Screenshot of JSON file for libraries.](Library_Management_Screenshots/JSONLibraries.png)
+
+![Screenshot of JSON file for admins.](Library_Management_Screenshots/JSONAdmins.png)
