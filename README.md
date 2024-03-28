@@ -16,6 +16,6 @@ Given below is the flow of the application.
 
 ![Screenshot of adding a book.](Library_Management_Screenshots/Addingabook.png)
 
-![Screenshot of editing the avilability of books.](Library_Management_Screenshots/Availability.png)
+![Screenshot of editing the availability of books.](Library_Management_Screenshots/Availability.png)
 
 ![Screenshot of checking out and returning books for a user.](Library_Management_Screenshots/Checkout.png)
